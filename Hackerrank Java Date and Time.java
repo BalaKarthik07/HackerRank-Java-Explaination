@@ -123,6 +123,7 @@ class Result {
  *  3. INTEGER year
  */
 
+/*
 - This is a **comment** explaining the function's purpose: it returns the day of the week (as a string) when given a date (month, day, and year).
 
 
